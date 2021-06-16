@@ -1,16 +1,17 @@
-### Hi there 👋
+<pre>
+- ⚡  I'm a data scientist and basketball enthusiast. 
+- 🐝   M.S. in Analytics from Georgia Tech
+- 🐑   B.S. in Physics and B.A. in Spanish from UNC-Chapel Hill
+- 🖥️   I’m currently working on expanding my skills with different ML tools. 
+- ⛹️‍♂️   If I'm not working, I probably have a game on. 
+- 📫   You can reach me at rileybuch@gmail.com
+
+<pre>
 
 <!--
-**rileybuch/rileybuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Riley's github stats](https://github-readme-stats.vercel.app/api?username=rileybuch&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileybuch)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
