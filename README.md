@@ -1,9 +1,9 @@
 <pre>
-- ⚡  I'm a data scientist and basketball enthusiast. 
+-  ⚡   I'm a data scientist and basketball enthusiast. 
 - 🐝   M.S. in Analytics from Georgia Tech
 - 🐑   B.S. in Physics and B.A. in Spanish from UNC-Chapel Hill
 - 🖥️   I’m currently working on expanding my skills with different ML tools. 
-- ⛹️‍♂️   If I'm not working, I probably have a game on. 
+- 🏀   If I'm not working, I'm probably watching a game. 
 - 📫   You can reach me at rileybuch@gmail.com
 
 <pre>
