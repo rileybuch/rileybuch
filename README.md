@@ -1,6 +1,6 @@
 <pre>
 -  ⚡   I'm a data scientist and basketball enthusiast. 
-- 📊   I currently work for an Innovation Team at Credit Suisse.
+- 📊   I currently work for a Finance Innovation Team at Credit Suisse.
 - 🐝   M.S. in Analytics from Georgia Tech
 - 🐑   B.S. in Physics and B.A. in Spanish from UNC-Chapel Hill
 - 📫   You can reach me at rileybuch@gmail.com
